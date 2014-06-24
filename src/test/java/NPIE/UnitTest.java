@@ -42,7 +42,7 @@ public class UnitTest {
     /**
      * Test of getName method, of class Unit.
      */
-    @Test
+   /* @Test
     public void testGetName() {
         System.out.println("getName");
         Unit instance = null;
@@ -51,12 +51,12 @@ public class UnitTest {
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of setName method, of class Unit.
      */
-    @Test
+   /* @Test
     public void testSetName() {
         System.out.println("setName");
         String name = "";
@@ -64,12 +64,12 @@ public class UnitTest {
         instance.setName(name);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of getUnitSystem method, of class Unit.
      */
-    @Test
+    /*@Test
     public void testGetUnitSystem() {
         System.out.println("getUnitSystem");
         Unit instance = null;
@@ -78,12 +78,12 @@ public class UnitTest {
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of setUnitSystem method, of class Unit.
      */
-    @Test
+    /*@Test
     public void testSetUnitSystem() {
         System.out.println("setUnitSystem");
         UnitSystem unitSystem = null;
@@ -91,12 +91,12 @@ public class UnitTest {
         instance.setUnitSystem(unitSystem);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of getUnitType method, of class Unit.
      */
-    @Test
+   /* @Test
     public void testGetUnitType() {
         System.out.println("getUnitType");
         Unit instance = null;
@@ -105,12 +105,12 @@ public class UnitTest {
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of setUnitType method, of class Unit.
      */
-    @Test
+   /* @Test
     public void testSetUnitType() {
         System.out.println("setUnitType");
         UnitType unitType = null;
@@ -118,12 +118,12 @@ public class UnitTest {
         instance.setUnitType(unitType);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of getFactor method, of class Unit.
      */
-    @Test
+    /*@Test
     public void testGetFactor() {
         System.out.println("getFactor");
         Unit instance = null;
@@ -132,12 +132,12 @@ public class UnitTest {
         assertEquals(expResult, result, 0.0);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of setFactor method, of class Unit.
      */
-    @Test
+    /*@Test
     public void testSetFactor() {
         System.out.println("setFactor");
         float factor = 0.0F;
@@ -145,12 +145,12 @@ public class UnitTest {
         instance.setFactor(factor);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of getFactorType method, of class Unit.
      */
-    @Test
+   /* @Test
     public void testGetFactorType() {
         System.out.println("getFactorType");
         Unit instance = null;
@@ -159,12 +159,12 @@ public class UnitTest {
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of setFactorType method, of class Unit.
      */
-    @Test
+   /* @Test
     public void testSetFactorType() {
         System.out.println("setFactorType");
         FactorType factorType = null;
@@ -172,12 +172,12 @@ public class UnitTest {
         instance.setFactorType(factorType);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of getReference method, of class Unit.
      */
-    @Test
+   /* @Test
     public void testGetReference() {
         System.out.println("getReference");
         Unit instance = null;
@@ -186,12 +186,12 @@ public class UnitTest {
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of setReference method, of class Unit.
      */
-    @Test
+    /*@Test
     public void testSetReference() {
         System.out.println("setReference");
         boolean reference = false;
@@ -199,12 +199,12 @@ public class UnitTest {
         instance.setReference(reference);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of toString method, of class Unit.
      */
-  /*  @Test
+    /*@Test
     public void testToString() {
         System.out.println("toString");
         Unit instance = null;
@@ -218,7 +218,7 @@ public class UnitTest {
     /**
      * Test of AddUnit method, of class Unit.
      */
-   /* @Test
+    /*@Test
     public void testAddUnit() {
         System.out.println("AddUnit");
         Unit expResult = null;
@@ -231,7 +231,7 @@ public class UnitTest {
     /**
      * Test of displayUnits method, of class Unit.
      */
-   /* @Test
+    /*@Test
     public void testDisplayUnits() {
         System.out.println("displayUnits");
         ArrayList<Unit> liste = null;
