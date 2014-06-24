@@ -3,7 +3,7 @@ package NPIE;
 public class SimpleConversion extends Conversion {
 
      /**
-     * Conversion Constructor
+     * SimpleConversion Constructor
      *
      * @param source the source of the Simpleconversion
      * @param target the target of the Simpleconversion
