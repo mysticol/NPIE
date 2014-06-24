@@ -54,7 +54,7 @@ public class UnitSystemTest {
     /**
      * Test of valueOf method, of class UnitSystem.
      */
-    @Test
+   /* @Test
     public void testValueOf() {
         System.out.println("valueOf");
         String name = "";
@@ -63,6 +63,6 @@ public class UnitSystemTest {
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
     
 }

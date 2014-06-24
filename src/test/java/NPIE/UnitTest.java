@@ -204,7 +204,7 @@ public class UnitTest {
     /**
      * Test of toString method, of class Unit.
      */
-    @Test
+  /*  @Test
     public void testToString() {
         System.out.println("toString");
         Unit instance = null;
@@ -213,7 +213,7 @@ public class UnitTest {
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of AddUnit method, of class Unit.
@@ -231,13 +231,13 @@ public class UnitTest {
     /**
      * Test of displayUnits method, of class Unit.
      */
-    @Test
+   /* @Test
     public void testDisplayUnits() {
         System.out.println("displayUnits");
         ArrayList<Unit> liste = null;
         Unit.displayUnits(liste);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
     
 }

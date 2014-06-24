@@ -41,7 +41,7 @@ public class SimpleConversionTest {
     /**
      * Test of SimpleConv method, of class SimpleConversion.
      */
-    @Test
+   /* @Test
     public void testSimpleConv() {
         System.out.println("SimpleConv");
         SimpleConversion instance = null;
@@ -61,6 +61,6 @@ public class SimpleConversionTest {
     fail(
 
 "The test case is a prototype.");
-    }
+    }*/
     
 }

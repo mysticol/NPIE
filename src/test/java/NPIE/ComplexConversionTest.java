@@ -41,7 +41,7 @@ public class ComplexConversionTest {
     /**
      * Test of ComplexConv method, of class ComplexConversion.
      */
-    @Test
+    /*@Test
     public void testComplexConv_3args() throws Exception {
         System.out.println("ComplexConv");
         Unit src = null;
@@ -53,12 +53,12 @@ public class ComplexConversionTest {
         assertEquals(expResult, result, 0.0);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of ComplexConv method, of class ComplexConversion.
      */
-    @Test
+    /*@Test
     public void testComplexConv() throws Exception {
         System.out.println("ComplexConv");
         ComplexConversion instance = null;
@@ -67,6 +67,6 @@ public class ComplexConversionTest {
         assertEquals(expResult, result, 0.0);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
     
 }
