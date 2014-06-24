@@ -218,7 +218,7 @@ public class UnitTest {
     /**
      * Test of AddUnit method, of class Unit.
      */
-    @Test
+   /* @Test
     public void testAddUnit() {
         System.out.println("AddUnit");
         Unit expResult = null;
@@ -226,7 +226,7 @@ public class UnitTest {
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of displayUnits method, of class Unit.
