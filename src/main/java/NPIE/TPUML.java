@@ -8,8 +8,8 @@ import javax.script.ScriptException;
 public class TPUML {
 
 	// 
-	static ArrayList<Unit> units_list = new ArrayList<>();		// contains the Units created
-	static ArrayList<String> convs_list = new ArrayList<>();  // contains the complex conversions
+	static ArrayList<Unit> units_list = new ArrayList();		// contains the Units created
+	static ArrayList<String> convs_list = new ArrayList();  // contains the complex conversions
 
 	///////////////////////////////// MAIN ///////////////////////////////////////////////////////////////////
 	public static void main(String[] args) throws ScriptException {
