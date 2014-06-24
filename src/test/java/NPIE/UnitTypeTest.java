@@ -41,15 +41,15 @@ public class UnitTypeTest {
     /**
      * Test of values method, of class UnitType.
      */
-    @Test
-    public void testValues() {
+   /* @Test
+   public void testValues() {
         System.out.println("values");
         UnitType[] expResult = null;
         UnitType[] result = UnitType.values();
         assertArrayEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of valueOf method, of class UnitType.

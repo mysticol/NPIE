@@ -41,7 +41,7 @@ public class FactorTypeTest {
     /**
      * Test of values method, of class FactorType.
      */
-    @Test
+   /* @Test
     public void testValues() {
         System.out.println("values");
         FactorType[] expResult = null;
@@ -49,7 +49,7 @@ public class FactorTypeTest {
         assertArrayEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
-    }
+    }*/
 
     /**
      * Test of valueOf method, of class FactorType.
