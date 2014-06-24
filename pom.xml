@@ -60,7 +60,62 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>        
+    </build>
+    
+    
+    <developers>
+        <developer>
+            <id>Bapt</id>
+            <name>Baptiste ROLLAND</name>
+            <email>baptiste.rolland@etu.univ-nantes.fr</email>
+            <roles>
+                <role>Developper</role>
+            </roles>
+            <timezone>1</timezone>
+        </developer>
+        <developer>
+            <id>Mounir</id>
+            <name>Mounir HADDOUCH</name>
+            <email>mounir.haddouch@etu.univ-nantes.fr</email>
+            <roles>
+                <role>Developper</role>
+            </roles>
+            <timezone>1</timezone>
+        </developer>
+    </developers>
+    <licenses>
+        <license>
+            <name>GNU GPL V3</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+            <comments>Free</comments>
+        </license>
+    </licenses>
+    <description>UNITS is an application from Baptiste ROLLAND and Mounir HADDOUCH from the University of Nantes. It is a Units converter.</description>
+
+    <organization>
+        <name>University of Nantes</name>
+        <url>http://www.univ-nantes.fr</url>
+    </organization>
+    <scm>
+        <connection>https://github.com/mysticol/NPIE</connection>
+        <url>https://github.com/mysticol/NPIE</url>
+        <tag>HEAD</tag>
+    </scm>
+    <ciManagement>
+        <system>Github</system>
+        <url>https://github.com/mysticol/NPIE</url>
+        <notifiers>
+            <notifier>
+                <type>mail</type>
+                <address>baptiste.rolland@etu.univ-nantes.fr</address>
+                <sendOnError>true</sendOnError>
+                <sendOnFailure>true</sendOnFailure>
+                <sendOnSuccess>false</sendOnSuccess>
+                <sendOnWarning>false</sendOnWarning>
+            </notifier>
+        </notifiers>
+    </ciManagement>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
